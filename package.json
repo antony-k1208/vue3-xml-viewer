@@ -8,8 +8,8 @@
     "build-bundle": "vue-cli-service build --target lib --name vue3-xml-viewer ./src/components/main.js"
   },
   "peerDependencies": {
-    "core-js": "3.22.2",
-    "vue": "3.2.33"
+    "core-js": "^3.22.2",
+    "vue": "^3.2.33"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.4",
