@@ -6,7 +6,7 @@ settings:
 
 dependencies:
   core-js:
-    specifier: ^3.22.2
+    specifier: ^3.23.3
     version: 3.36.1
   vue:
     specifier: ^3.2.33
